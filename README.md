@@ -59,7 +59,7 @@
 
 16) After a short time **Refesh the Page**, then click the `Firmware build` button in the bottom-right:![image](https://user-images.githubusercontent.com/96897936/230161482-b52e1850-6ea5-46a3-b2fe-d884079fbf8c.png)
 
-17) **This may take you to an older firmware build! Click `Actions` in the top and select the most recent build (it may still be running):
+17) **This may take you to an older firmware build! Click `Actions` in the top and select the most recent build (it may still be running):**
 
 18) Download the firmware.zip by clicking `firmware` in the `Artifacts` section: ![image](https://user-images.githubusercontent.com/96897936/230161849-849281cc-8d3a-4623-8749-df9d835bc5e1.png)
 
