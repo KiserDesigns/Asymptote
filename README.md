@@ -22,17 +22,17 @@
 6) Find the `asymptote_[X].json` that matches your layout:
 ![image](https://user-images.githubusercontent.com/96897936/230154624-dc923b82-7962-42e9-b5a2-6771530eeba5.png)
 
-7a) Edit that file, and rename it to remove the `_[X]` to just `asymptote.json`:
+7) Edit that file, and rename it to remove the `_[X]` to just `asymptote.json`:
 ![image](https://user-images.githubusercontent.com/96897936/230155018-8f5b0a24-c08e-4aa3-940d-811d05b33f26.png)
 ![image](https://user-images.githubusercontent.com/96897936/230155080-52efbac7-f0fa-42e1-a887-a6fd0132bd07.png)
 
-7b) Click `Commit changes` at the bottom:
+Click `Commit changes` at the bottom:
 ![image](https://user-images.githubusercontent.com/96897936/230155175-a8f1e8e1-2b85-4dc8-9039-b253252cca67.png)
 
-8a) Go to `Actions` in your fork of `asymptote-zmk`:
+8) Go to `Actions` in your fork of `asymptote-zmk`:
 ![image](https://user-images.githubusercontent.com/96897936/230166881-86869dae-2c12-4064-a5ec-b57986477500.png)
 
-8b) Click `I understand ... enable them`:
+Click `I understand ... enable them`:
 ![image](https://user-images.githubusercontent.com/96897936/230167066-231348f8-edd1-4679-8b6c-9a244f7ad5ae.png)
 
 9) Naviagate to [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
