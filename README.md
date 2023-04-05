@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/96897936/230155018-8f5b0a24-c08e-4aa3-940d-811d05b33f26.png)
 ![image](https://user-images.githubusercontent.com/96897936/230155080-52efbac7-f0fa-42e1-a887-a6fd0132bd07.png)
 
-8) Commit your changes at the bottom:
+8) Click `Commit changes` at the bottom:
 ![image](https://user-images.githubusercontent.com/96897936/230155175-a8f1e8e1-2b85-4dc8-9039-b253252cca67.png)
 
 9) Naviagate to [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
@@ -41,4 +41,10 @@
 
 13) You should now be at a screen that lets you comfigure your keymap!
 ![image](https://user-images.githubusercontent.com/96897936/230157090-3baa8eae-909a-4ec9-ad12-5b63ef1ff60c.png)
+
+14) See the [ZMK Docs](https://zmk.dev/docs/codes) for an overview different keycodes and functionality.
+
+15) When all changes have been made, click `Commit Changes` in the bottom-right:
+![image](https://user-images.githubusercontent.com/96897936/230158163-72979cef-c865-4f0e-871c-0815ec3237e2.png)
+
 
