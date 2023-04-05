@@ -3,7 +3,7 @@
 
 
 
-#ZMK Firmware
+## ZMK Firmware
 
 1) Log into [GitHub](https://github.com/)
 
@@ -47,4 +47,11 @@
 15) When all changes have been made, click `Commit Changes` in the bottom-right:
 ![image](https://user-images.githubusercontent.com/96897936/230158163-72979cef-c865-4f0e-871c-0815ec3237e2.png)
 
+16) After a short time, click the `Firmware build` button in the bottom-right:![image](https://user-images.githubusercontent.com/96897936/230161482-b52e1850-6ea5-46a3-b2fe-d884079fbf8c.png)
 
+17) Download the firmware.zip by clicking `firmware` in the `Artifacts` section: ![image](https://user-images.githubusercontent.com/96897936/230161849-849281cc-8d3a-4623-8749-df9d835bc5e1.png)
+
+18) Plug your Asymptote into your computer and enter bootloader mode. In the default keymap, this is accessible by holding "Tab" to enter layer 2 and pressing "Esc" to enter the bootloader.
+
+19) Drag-and-drop your firmware.uf2 file from the .zip you downloaded onto your board, which should show up as `XIAO-SENSE`:
+![image](https://user-images.githubusercontent.com/96897936/230163098-0127778c-2428-4b6c-83be-13617921c608.png)
