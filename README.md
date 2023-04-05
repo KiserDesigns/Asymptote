@@ -40,6 +40,7 @@
 12) Click `Install`, and `Authorize Keymap Editor`.
 
 13) You should now be at a screen that lets you comfigure your keymap!
+
 **Some keys may render to the right of the keyboard. These are not mapped to any physical switch.**
 ![image](https://user-images.githubusercontent.com/96897936/230157090-3baa8eae-909a-4ec9-ad12-5b63ef1ff60c.png)
 
