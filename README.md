@@ -31,4 +31,14 @@
 
 9) Naviagate to [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
 
-11) In the `Source` field, select GitHub:![image](https://user-images.githubusercontent.com/96897936/230156000-b6e13434-8bd1-4da0-b653-ebdcd99c0dac.png)
+10) If prompted, click `Add Repository`:
+![image](https://user-images.githubusercontent.com/96897936/230156391-cfa1620c-1fd1-4b71-a820-86144fa35dba.png)
+
+11) Select `Only select repositories`, and select your fork of the `asymptote-zmk` repo:
+![image](https://user-images.githubusercontent.com/96897936/230156757-e90e4731-eafd-4cbf-bd7b-b70958e7d57a.png)
+
+12) Click `Install`, and `Authorize Keymap Editor`.
+
+13) You should now be at a screen that lets you comfigure your keymap!
+![image](https://user-images.githubusercontent.com/96897936/230157090-3baa8eae-909a-4ec9-ad12-5b63ef1ff60c.png)
+
