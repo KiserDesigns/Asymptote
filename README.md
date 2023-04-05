@@ -5,13 +5,30 @@
 
 #ZMK Firmware
 
-1) Log into [Github](https://github.com/)
+1) Log into [GitHub](https://github.com/)
+
 2) Navigate to the [Kiser Designs Asymptote ZMK Repository](https://github.com/KiserDesigns/asymptote-zmk)
-3) Click `Fork` in the top right: ![image](https://user-images.githubusercontent.com/96897936/230153508-1ed875cc-70f5-4aa7-9cbd-496e768a61c7.png)
-4) Click `Create fork` at the bottom: ![image](https://user-images.githubusercontent.com/96897936/230153629-43b385ca-e62f-4ecf-a6ac-af3986314608.png)
-5) Once that has finished loading, navigate into the `config` directory: ![image](https://user-images.githubusercontent.com/96897936/230153911-66edd016-d08c-4804-ac8e-f887a5050350.png)
+
+3) Click `Fork` in the top right:
+![image](https://user-images.githubusercontent.com/96897936/230153508-1ed875cc-70f5-4aa7-9cbd-496e768a61c7.png)
+
+4) Click `Create fork` at the bottom:
+![image](https://user-images.githubusercontent.com/96897936/230153629-43b385ca-e62f-4ecf-a6ac-af3986314608.png)
+
+5) Once that has finished loading, navigate into the `config` directory:
+![image](https://user-images.githubusercontent.com/96897936/230153911-66edd016-d08c-4804-ac8e-f887a5050350.png)
 ![image](https://user-images.githubusercontent.com/96897936/230153957-2065e077-9588-4968-b48d-a80197ccdcba.png)
-6) Find the `asymptote_[X].json` that matches your layout: ![image](https://user-images.githubusercontent.com/96897936/230154624-dc923b82-7962-42e9-b5a2-6771530eeba5.png)
-7) Edit that file, and rename it to remove the `_[X]` to just `asymptote.json`: ![image](https://user-images.githubusercontent.com/96897936/230155018-8f5b0a24-c08e-4aa3-940d-811d05b33f26.png)
+
+6) Find the `asymptote_[X].json` that matches your layout:
+![image](https://user-images.githubusercontent.com/96897936/230154624-dc923b82-7962-42e9-b5a2-6771530eeba5.png)
+
+7) Edit that file, and rename it to remove the `_[X]` to just `asymptote.json`:
+![image](https://user-images.githubusercontent.com/96897936/230155018-8f5b0a24-c08e-4aa3-940d-811d05b33f26.png)
 ![image](https://user-images.githubusercontent.com/96897936/230155080-52efbac7-f0fa-42e1-a887-a6fd0132bd07.png)
-8) Commit your changes at the bottom: ![image](https://user-images.githubusercontent.com/96897936/230155175-a8f1e8e1-2b85-4dc8-9039-b253252cca67.png)
+
+8) Commit your changes at the bottom:
+![image](https://user-images.githubusercontent.com/96897936/230155175-a8f1e8e1-2b85-4dc8-9039-b253252cca67.png)
+
+9) Naviagate to [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/)
+
+11) In the `Source` field, select GitHub:![image](https://user-images.githubusercontent.com/96897936/230156000-b6e13434-8bd1-4da0-b653-ebdcd99c0dac.png)
