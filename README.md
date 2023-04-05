@@ -41,7 +41,8 @@
 
 13) You should now be at a screen that lets you comfigure your keymap!
 
-**Some keys may render to the right of the keyboard. These are not mapped to any physical switch.**
+  **Some keys may render to the right of the keyboard. These are not mapped to any physical switch.**
+  
 ![image](https://user-images.githubusercontent.com/96897936/230157090-3baa8eae-909a-4ec9-ad12-5b63ef1ff60c.png)
 
 14) See the [ZMK Docs](https://zmk.dev/docs/codes) for an overview different keycodes and functionality.
