@@ -75,6 +75,10 @@ Stuff the PCB with diodes, all diodes are either pointing down or to the left (w
 
 The three diodes directly over the battery cutout interfere with injection molded tray-mount cases, solder those on the top side and trim their legs very flush on the bottom.
 
+<hr>
+
+## <a name="Modifications"></a>Modifications
+
 <img src="https://user-images.githubusercontent.com/96897936/233495377-f09f8207-0d4c-4a04-ad09-a8ef167d5647.JPG" width="50%"></img>
 
 The diode with the "135" markings is special.
@@ -86,8 +90,6 @@ If you are using a 3u spacebar layout, this diode needs to be soldered to a cert
 Given your desired layout, solder this diode on the corresponding pin as pictured.
 
 <hr>
-
-## <a name="Modifications"></a>Modifications
 
 Because the Xiao module is between the two upper-right switches, when using 5-pin switches, the inside 5th pin of those two switches needs to be removed.
 
