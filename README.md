@@ -14,7 +14,7 @@
 
 ## Soldering the Xiao
 
-<img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%">
+<img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"/>
 ![IMG_0834](https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG)
 ![IMG_0836](https://user-images.githubusercontent.com/96897936/233487892-8f67548b-cc96-4b11-bc7d-1f17df7deb4c.JPG)
 Using the included 3D printed parts, align the Xiao to the PCB. The USB port should be facing the bottom of the PCB, and be pressed up against the internal lip of the black alignment piece. The other alignment pieces can be placed in the other corners to provide a level surface.
