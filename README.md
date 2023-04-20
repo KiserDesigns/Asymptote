@@ -16,7 +16,7 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
  - Xiao BLE
  - Diodes
  - Battery
- - (Asssembly alighment 3D printed parts)
+ - (Asssembly alignment 3D printed parts)
 
 <hr>
 
