@@ -101,7 +101,7 @@ Cut them with a pair of flush cutters:
 <img src="https://user-images.githubusercontent.com/96897936/233497449-ead12e16-519d-4ac1-9d2c-786343467c5e.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233497457-8781e877-cdc8-47a6-ad3b-7852e25e4440.JPG" width="50%"></img>
 
-The Xiao and Battery interefere with some tray-mount cases, which will need to be modified.
+The Xiao and Battery interfere with some tray-mount cases, which will need to be modified.
 
 <img src="https://user-images.githubusercontent.com/96897936/233496972-414a9ca9-902f-41dc-aa3a-d486f41f2002.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233496977-7f387d1e-8190-41fb-b6dc-445b5c85bd45.JPG" width="50%"></img>
