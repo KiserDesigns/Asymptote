@@ -2,6 +2,8 @@
 
 [Jump to Firmare](#Firmware)
 
+[Jump to Modifications](#Modifications)
+
 [Jump to Battery](#Battery)
 
 ## Included Parts
@@ -60,6 +62,14 @@ The three diodes directly over the battery cutout interfere with injection molde
 <img src="https://user-images.githubusercontent.com/96897936/233495377-f09f8207-0d4c-4a04-ad09-a8ef167d5647.JPG" width="50%"></img>
 
 The diode with the "135" markings is special. If you are using a 3u spacebar layout, this diode needs to be soldered to a certain pad, 1, 3 or 5, depending on your overall bottom layout.
+
+![Screenshot 2023-04-20 165641](https://user-images.githubusercontent.com/96897936/233496108-ef06e662-3e6d-41d8-ad07-c12476c25c49.png)
+
+Given your desired layout, solder this diode on the corresponding pin as pictured.
+
+<hr>
+
+## <a name="Modifications"></a>Modifications
 
 
 
