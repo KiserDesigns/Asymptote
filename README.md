@@ -1,6 +1,6 @@
 # Asymptote Build Guide
 
-[Jump to Firmare](#Firmware)
+[Jump to ZMK Firmare](#ZMK Firmware)
 
 [Jump to Battery](#Battery)
 
@@ -24,7 +24,7 @@ Using the included 3D printed parts, align the Xiao to the PCB. The USB port sho
 
 
 
-## <a name="Firmware"></a>ZMK Firmware
+## <a name="ZMK Firmware"></a>ZMK Firmware
 
 1) Log into [GitHub](https://github.com/)
 
