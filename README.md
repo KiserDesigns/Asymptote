@@ -87,7 +87,7 @@ If you are using a 3u spacebar layout, this diode needs to be soldered to a cert
 
 ![Screenshot 2023-04-20 165641](https://user-images.githubusercontent.com/96897936/233496108-ef06e662-3e6d-41d8-ad07-c12476c25c49.png)
 
-Given your desired layout, solder this diode on the corresponding pin as pictured.
+Given your desired layout, solder this diode on the corresponding pin as pictured. Swithces that are colored the same in this screenshot are <i>electrically</i> wired together. You are limited to 6 keys on the bottom row, no matter what layout you choose.
 
 <hr>
 
