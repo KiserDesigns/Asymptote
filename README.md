@@ -1,6 +1,6 @@
 # Asymptote Build Guide
 
-# You will need to solder the "135" diode is a specific way if using 3u bars, even if your diodes came pre-installed!
+# You will need to solder the "135" diode specially if using 3u bars, even if your diodes came pre-installed!
 
 If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
