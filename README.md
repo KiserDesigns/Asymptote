@@ -1,10 +1,14 @@
 # Asymptote Build Guide
 
-[Jump to Firmare](#Firmware)
+If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
 [Jump to Modifications](#Modifications)
 
 [Jump to Battery](#Battery)
+
+[Jump to Firmare](#Firmware)
+
+<hr>
 
 ## Included Parts
  - PCB
@@ -13,6 +17,8 @@
  - Diodes
  - Battery
  - (Asssembly alighment 3D printed parts)
+
+<hr>
 
 ## Soldering the Xiao
 
@@ -48,6 +54,8 @@ Solder a spare bit of wire as pictured, from the outer (+) battery pad by the En
 
 Solder another wire from the inner battery pad by the Ender key to the GND or Batt- pad on the Xiao. I recommend the GND pad, since it is easy to short the two Batt pads.
 
+<hr>
+
 ## Diodes
 
 <img src="https://user-images.githubusercontent.com/96897936/233494702-1ac35ab4-2ee9-4ccc-a567-9514ea9d296a.JPG" width="50%"></img>
@@ -71,12 +79,54 @@ Given your desired layout, solder this diode on the corresponding pin as picture
 
 ## <a name="Modifications"></a>Modifications
 
+Because the Xiao module is between the two upper-right switches, when using 5-pin switches, the inside 5th pin of those two switches needs to be removed. Cut them with a pair of flush cutters:
 
+<img src="https://user-images.githubusercontent.com/96897936/233497449-ead12e16-519d-4ac1-9d2c-786343467c5e.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233497457-8781e877-cdc8-47a6-ad3b-7852e25e4440.JPG" width="50%"></img>
 
+The Xiao and Battery interefere with some tray-mount cases, which will need to be modified.
+
+<img src="https://user-images.githubusercontent.com/96897936/233496972-414a9ca9-902f-41dc-aa3a-d486f41f2002.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233496977-7f387d1e-8190-41fb-b6dc-445b5c85bd45.JPG" width="50%"></img>
+
+And likewise for the battery:
+
+<img src="https://user-images.githubusercontent.com/96897936/233497048-8090e4db-61c0-4958-87c0-51db3ff80271.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233497128-a3883f91-02c3-4934-b5c4-7a6e50913995.JPG" width="50%"></img>
+
+Depending on the your bottom row layout, you may need to remove the bottom-most left standoff, under the left side of the spacebar area:
+
+<img src="https://user-images.githubusercontent.com/96897936/233497276-4e1ee5a8-262c-44b1-9220-2fd4988fbff4.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233497280-5687dc90-20a4-4f18-b0f2-cec93fc106f4.JPG" width="50%"></img>
+
+After all of these modifications are done, you can solder the switches and plate to the PCB.
+
+<hr>
 
 ## <a name="Battery"></a>Battery
 
+The battery has a connector pre-installed from the factory, but the connector is too large to fit under the PCB in most Minivan cases.
+Carefully line up the battery in the opening on the bottom of the PCB, and cut the black wire where it meets one of the outer (-) battery pads.
+Strip the black wire and solder it to the (-) pad.
 
+<img src="https://user-images.githubusercontent.com/96897936/233498026-26656c12-62a0-412c-b3f7-7caef83dcbcf.JPG" width="50%"></img>
+
+
+Being careful not to short the red and black wires, as this will permanently damage the battery, measure, cut, strip, and solder the red wire to the center (+) pad.
+
+<img src="https://user-images.githubusercontent.com/96897936/233498185-51aa6993-e1e3-45c7-a454-b11f0d751a4c.JPG" width="50%"></img>
+
+Place a bit of taper over the battery and pattery wires to prevent the battery from moving and the wires from shorting out. Even though Scotch tape is pictured, it is recommended to use Electrical or Kapton tape.
+
+<img src="https://user-images.githubusercontent.com/96897936/233498322-f71f87f5-362a-40e8-b2b2-d7912b858149.JPG" width="50%"></img>
+
+<hr>
+
+### Your board is now complete!
+
+![IMG_0863](https://user-images.githubusercontent.com/96897936/233498428-ce403b6f-8233-478a-8bc7-8c40184de3d3.JPG)
+
+<hr>
 
 ## <a name="Firmware"></a>Firmware
 
