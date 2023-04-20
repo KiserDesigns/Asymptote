@@ -59,7 +59,7 @@ Solder a spare bit of wire as pictured, from the outer (+) battery pad by the En
 
 <img src="https://user-images.githubusercontent.com/96897936/233489891-49a0aa98-7a51-4fc2-98c7-c97b838964b3.JPG" width="50%"></img>
 
-Solder another wire from the inner battery pad by the Ender key to the GND or Batt- pad on the Xiao.
+Solder another wire from the inner battery pad by the Enter key to the GND or Batt- pad on the Xiao.
 
 I recommend the GND pad, since it is easy to short the two Batt pads.
 
