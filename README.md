@@ -20,7 +20,7 @@
 Using the included 3D printed parts, align the Xiao to the PCB. The USB port should be facing the bottom of the PCB, and be pressed up against the internal lip of the black alignment piece. The other alignment pieces can be placed in the other corners to provide a level surface.
 
 
-## <a name="Firmware"></a>Battery
+## <a name="Battery"></a>Battery
 
 
 
