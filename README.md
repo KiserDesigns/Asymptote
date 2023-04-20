@@ -44,6 +44,7 @@ The Xiao sould sit flush to the bottom of the PCB. It is thinner than the PCB, s
 Tack opposite corners of the Xiao module in place with a bit of solder, and check the fitment of your Minivan Case. Make adjustments as needed by heating up the offending corner's solder.
 
 <img src="https://user-images.githubusercontent.com/96897936/233489330-40ffe7e7-19ef-4653-af40-eaa485687ac9.JPG" width="50%"></img>
+
 Remove the PCB from your case, and solder all pins on the top of the PCB.
 
 Do Not Forget the NFC pins. These need to be soldered as well!
