@@ -15,28 +15,28 @@
 ## Soldering the Xiao
 
 <img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"></img>
-![IMG_0834](https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG)
-![IMG_0836](https://user-images.githubusercontent.com/96897936/233487892-8f67548b-cc96-4b11-bc7d-1f17df7deb4c.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233487892-8f67548b-cc96-4b11-bc7d-1f17df7deb4c.JPG" width="50%"></img>
 Using the included 3D printed parts, align the Xiao to the PCB. The USB port should be facing the bottom of the PCB, and be pressed up against the internal lip of the black alignment piece. The other alignment pieces can be placed in the other corners to provide a level surface.
 
-![IMG_0837](https://user-images.githubusercontent.com/96897936/233488940-a76c0c12-890e-4e5d-a271-39281772ef76.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233488940-a76c0c12-890e-4e5d-a271-39281772ef76.JPG" width="50%"></img>
 The Xiao sould sit flush to the bottom of the PCB. It is thinner than the PCB, so the top surface, facing you, will be a bit recessed down.
 
-![IMG_0838](https://user-images.githubusercontent.com/96897936/233489086-c31068a9-531d-4962-8d53-b07e86e824f8.JPG)
-![IMG_0839](https://user-images.githubusercontent.com/96897936/233489295-d59f660f-7176-4a4d-b0d0-82516f621761.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233489086-c31068a9-531d-4962-8d53-b07e86e824f8.JPG" width="50%"></img>
+<img src="https://user-images.githubusercontent.com/96897936/233489295-d59f660f-7176-4a4d-b0d0-82516f621761.JPG" width="50%"></img>
 Tack opposite corners of the Xiao module in place with a bit of solder, and check the fitment of your Minivan Case. Make adjustments as needed by heating up the offending corner's solder.
 
-![IMG_0840](https://user-images.githubusercontent.com/96897936/233489330-40ffe7e7-19ef-4653-af40-eaa485687ac9.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233489330-40ffe7e7-19ef-4653-af40-eaa485687ac9.JPG" width="50%"></img>
 Remove the PCB from your case, and solder all pins on the top of the PCB.
 Do Not Forget the NFC pins. These need to be soldered as well!
 
-![IMG_0841](https://user-images.githubusercontent.com/96897936/233489484-a2690747-954e-4bc0-b119-d0c93421d781.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233489484-a2690747-954e-4bc0-b119-d0c93421d781.JPG" width="50%"></img>
 Then, flip the assembly over and solder the pads from the back.
 
-![IMG_0842](https://user-images.githubusercontent.com/96897936/233489862-e720f8bc-90e5-4c32-8921-7db3fe71f748.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233489862-e720f8bc-90e5-4c32-8921-7db3fe71f748.JPG" width="50%"></img>
 Solder a spare bit of wire as pictured, from the outer battery pad by the Enter key, to the Batt+ pad on the Xiao
 
-![IMG_0843](https://user-images.githubusercontent.com/96897936/233489891-49a0aa98-7a51-4fc2-98c7-c97b838964b3.JPG)
+<img src="https://user-images.githubusercontent.com/96897936/233489891-49a0aa98-7a51-4fc2-98c7-c97b838964b3.JPG" width="50%"></img>
 Solder another wire from the inner battery pad by the Ender key to the GND or Batt- pad on the Xiao. I recommend the GND pad, since it is easy to short the two Batt pads.
 
 ## <a name="Battery"></a>Battery
