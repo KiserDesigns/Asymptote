@@ -26,7 +26,11 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 <img src="https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233487892-8f67548b-cc96-4b11-bc7d-1f17df7deb4c.JPG" width="50%"></img>
 
-Using the included 3D printed parts, align the Xiao to the PCB. The USB port should be facing the bottom of the PCB, and be pressed up against the internal lip of the black alignment piece. The other alignment pieces can be placed in the other corners to provide a level surface.
+Using the included 3D printed parts, align the Xiao to the PCB.
+
+The USB port should be facing the bottom of the PCB, and be pressed up against the internal lip of the black alignment piece.
+
+The other alignment pieces can be placed in the other corners to provide a level surface.
 
 <img src="https://user-images.githubusercontent.com/96897936/233488940-a76c0c12-890e-4e5d-a271-39281772ef76.JPG" width="50%"></img>
 
@@ -52,7 +56,9 @@ Solder a spare bit of wire as pictured, from the outer (+) battery pad by the En
 
 <img src="https://user-images.githubusercontent.com/96897936/233489891-49a0aa98-7a51-4fc2-98c7-c97b838964b3.JPG" width="50%"></img>
 
-Solder another wire from the inner battery pad by the Ender key to the GND or Batt- pad on the Xiao. I recommend the GND pad, since it is easy to short the two Batt pads.
+Solder another wire from the inner battery pad by the Ender key to the GND or Batt- pad on the Xiao.
+
+I recommend the GND pad, since it is easy to short the two Batt pads.
 
 <hr>
 
@@ -69,7 +75,9 @@ The three diodes directly over the battery cutout interfere with injection molde
 
 <img src="https://user-images.githubusercontent.com/96897936/233495377-f09f8207-0d4c-4a04-ad09-a8ef167d5647.JPG" width="50%"></img>
 
-The diode with the "135" markings is special. If you are using a 3u spacebar layout, this diode needs to be soldered to a certain pad, 1, 3 or 5, depending on your overall bottom layout.
+The diode with the "135" markings is special.
+
+If you are using a 3u spacebar layout, this diode needs to be soldered to a certain pad, 1, 3 or 5, depending on your overall bottom layout.
 
 ![Screenshot 2023-04-20 165641](https://user-images.githubusercontent.com/96897936/233496108-ef06e662-3e6d-41d8-ad07-c12476c25c49.png)
 
@@ -79,7 +87,9 @@ Given your desired layout, solder this diode on the corresponding pin as picture
 
 ## <a name="Modifications"></a>Modifications
 
-Because the Xiao module is between the two upper-right switches, when using 5-pin switches, the inside 5th pin of those two switches needs to be removed. Cut them with a pair of flush cutters:
+Because the Xiao module is between the two upper-right switches, when using 5-pin switches, the inside 5th pin of those two switches needs to be removed.
+
+Cut them with a pair of flush cutters:
 
 <img src="https://user-images.githubusercontent.com/96897936/233497449-ead12e16-519d-4ac1-9d2c-786343467c5e.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233497457-8781e877-cdc8-47a6-ad3b-7852e25e4440.JPG" width="50%"></img>
@@ -106,17 +116,23 @@ After all of these modifications are done, you can solder the switches and plate
 ## <a name="Battery"></a>Battery
 
 The battery has a connector pre-installed from the factory, but the connector is too large to fit under the PCB in most Minivan cases.
+
 Carefully line up the battery in the opening on the bottom of the PCB, and cut the black wire where it meets one of the outer (-) battery pads.
+
 Strip the black wire and solder it to the (-) pad.
 
 <img src="https://user-images.githubusercontent.com/96897936/233498026-26656c12-62a0-412c-b3f7-7caef83dcbcf.JPG" width="50%"></img>
 
 
-Being careful not to short the red and black wires, as this will permanently damage the battery, measure, cut, strip, and solder the red wire to the center (+) pad.
+Being careful not to short the red and black wires, as this will permanently damage the battery.
+
+Measure, cut, strip, and solder the red wire to the center (+) pad.
 
 <img src="https://user-images.githubusercontent.com/96897936/233498185-51aa6993-e1e3-45c7-a454-b11f0d751a4c.JPG" width="50%"></img>
 
-Place a bit of taper over the battery and pattery wires to prevent the battery from moving and the wires from shorting out. Even though Scotch tape is pictured, it is recommended to use Electrical or Kapton tape.
+Place a bit of taper over the battery and pattery wires to prevent the battery from moving and the wires from shorting out.
+
+Even though Scotch tape is pictured, it is recommended to use Electrical or Kapton tape.
 
 <img src="https://user-images.githubusercontent.com/96897936/233498322-f71f87f5-362a-40e8-b2b2-d7912b858149.JPG" width="50%"></img>
 
