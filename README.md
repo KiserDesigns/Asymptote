@@ -211,7 +211,7 @@ Click `I understand ... enable them`:
 
 18) Download the firmware.zip by clicking `firmware` in the `Artifacts` section: ![image](https://user-images.githubusercontent.com/96897936/230161849-849281cc-8d3a-4623-8749-df9d835bc5e1.png)
 
-19) Plug your Asymptote into your computer and enter bootloader mode. In the default keymap, this is accessible by holding "Tab" to enter layer 2 and pressing "Esc" to enter the bootloader.
+19) Plug your Asymptote into your computer and enter bootloader mode. In the default keymap, this is accessible by holding "Tab" to enter layer 2 and pressing "Esc" to enter the bootloader. <b>If you do not have a keymap installed, double-tapping the RESET button next to the USB port on the Xiao will enter the bottoloader.</b>
 
 20) Drag-and-drop your firmware.uf2 file from the .zip you downloaded onto your board, which should show up as `XIAO-SENSE`:
 
