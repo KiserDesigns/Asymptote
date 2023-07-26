@@ -8,7 +8,7 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
 [Jump to Battery](#Battery)
 
-[Jump to Firmare](#Firmware)
+[Jump to ZMK Firmare](#ZMK_Firmware)
 
 <hr>
 
@@ -151,7 +151,7 @@ Even though Scotch tape is pictured, it is recommended to use Electrical or Kapt
 
 <hr>
 
-## <a name="Firmware"></a>Firmware
+## <a name="ZMK_Firmware"></a>ZMK Firmware
 
 1) Log into [GitHub](https://github.com/)
 
