@@ -24,9 +24,9 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
 <hr>
 
-## <strike>Soldering the Xiao (already complete with V2)
+## <strike>Soldering the Xiao</strike> (already complete with V2)
 
-<img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"></img>
+<strike><img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233487892-8f67548b-cc96-4b11-bc7d-1f17df7deb4c.JPG" width="50%"></img>
 
