@@ -19,12 +19,12 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
  - Plate
  - Xiao BLE
  - Diodes
- - Battery
- - (Asssembly alignment 3D printed parts)
+ - <strike>Battery</strike> (not included in V2)
+ - <strike>(Asssembly alignment 3D printed parts)<strike> (not included in V2)
 
 <hr>
 
-## Soldering the Xiao
+## <strike>Soldering the Xiao</strike> (already complete with V2)
 
 <img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG" width="50%"></img>
