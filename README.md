@@ -4,6 +4,8 @@
 
 If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
+# When removing Hull or Campiander tabs on the FR4 plate, you <i>must</i> score the perforations with a sharp knife before snapping them off. Failure to score the perforations <i>will</i> result in the plate bending or breaking.
+
 [Jump to Modifications](#modifications)
 
 [Jump to Battery](#battery)
