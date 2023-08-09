@@ -24,7 +24,7 @@ If your Xiao and Diodes came pre-installed, jump to the Modifications section.
 
 <hr>
 
-## <strike>Soldering the Xiao</strike> (already complete with V2)
+## <strike>Soldering the Xiao (already complete with V2)
 
 <img src="https://user-images.githubusercontent.com/96897936/233487838-7f036746-b3b1-479e-8b3d-d353adaa9846.JPG" width="50%"></img>
 <img src="https://user-images.githubusercontent.com/96897936/233488256-cdf5f079-bb1b-4637-b620-f518337b4930.JPG" width="50%"></img>
@@ -65,7 +65,7 @@ Solder another wire from the inner battery pad by the Enter key to the GND or Ba
 
 I recommend the GND pad, since it is easy to short the two Batt pads.
 
-<hr>
+<hr></strike>
 
 ## Diodes
 
